@@ -1,0 +1,21 @@
+query,model,precision@10,recall@50,ndcg@10,mrr,num_results,top_score,low_confidence_warning
+education system,bm25,1.0,0.35714285714285715,1.0,1.0,10,1.0,False
+education system,semantic,0.9,0.32142857142857145,0.9504206262110481,1.0,10,1.0,False
+education system,fuzzy,0.8,0.2857142857142857,0.9613085758737654,1.0,10,1.0,False
+education system,hybrid,0.9,0.32142857142857145,0.9937947856332161,1.0,10,1.0,False
+শিক্ষা,bm25,0.9,0.45,0.9937947856332161,1.0,10,1.0,False
+শিক্ষা,semantic,0.7,0.35,0.9409957666221128,1.0,10,1.0,False
+শিক্ষা,fuzzy,0.6,0.3,0.5997437692430793,0.2,10,0.0,True
+শিক্ষা,hybrid,1.0,0.5,1.0,1.0,10,1.0,False
+Prime Minister,bm25,1.0,0.5,1.0,1.0,10,1.0,False
+Prime Minister,semantic,0.7,0.35,0.9223960604395118,1.0,10,1.0,False
+Prime Minister,fuzzy,0.2,0.1,0.4227898344066503,0.16666666666666666,10,1.0,False
+Prime Minister,hybrid,1.0,0.5,1.0,1.0,10,1.0,False
+prison protest,bm25,0.9,0.2903225806451613,0.9504206262110481,1.0,10,1.0,False
+prison protest,semantic,1.0,0.3225806451612903,1.0,1.0,10,1.0,False
+prison protest,fuzzy,1.0,0.3225806451612903,1.0,1.0,10,1.0,False
+prison protest,hybrid,1.0,0.3225806451612903,1.0,1.0,10,1.0,False
+অর্থনীতি,bm25,0.7,0.30434782608695654,0.9072291563948641,1.0,10,1.0,False
+অর্থনীতি,semantic,0.8,0.34782608695652173,0.8165229378311881,0.5,10,1.0,False
+অর্থনীতি,fuzzy,0.9,0.391304347826087,1.0,1.0,10,1.0,False
+অর্থনীতি,hybrid,1.0,0.43478260869565216,1.0,1.0,10,1.0,False
