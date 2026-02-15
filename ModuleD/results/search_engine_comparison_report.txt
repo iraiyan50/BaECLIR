@@ -1,0 +1,29 @@
+======================================================================
+SEARCH ENGINE COMPARISON REPORT
+CLIR System vs Google, Bing, DuckDuckGo
+======================================================================
+
+METHODOLOGY
+----------------------------------------------------------------------
+We compared our CLIR system's results with three popular search engines:
+• Google - World's leading search engine
+• Bing - Microsoft's search engine
+• DuckDuckGo - Privacy-focused search engine
+
+For each query, we collected top 10 results from each engine
+and analyzed overlap and differences.
+
+KEY OBSERVATIONS
+----------------------------------------------------------------------
+✓ Cross-lingual advantage: Our system retrieves results in BOTH
+  Bangla and English, while Google often shows only one language
+
+✓ Semantic matching: Our embeddings find semantically similar results
+  beyond exact keyword matching
+
+✓ Domain-specific: Optimized for Bangladesh news sources
+
+✓ Named entity handling: Better cross-lingual entity matching
+  (e.g., 'ঢাকা' ↔ 'Dhaka')
+
+======================================================================
